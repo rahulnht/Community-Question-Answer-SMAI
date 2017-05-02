@@ -1,0 +1,213 @@
+number of rows (question pairs): 404290
+0    255027
+1    149263
+Name: is_duplicate, dtype: int64
+number of unique questions: 537933
+Number of training pairs: 355775
+Number of testing pairs: 48515
+Using Theano backend.
+WARNING (theano.sandbox.cuda): The cuda backend is deprecated and will be removed in the next release (v0.10).  Please switch to the gpuarray backend. You can get more information about how to switch at this URL:
+ https://github.com/Theano/Theano/wiki/Converting-to-the-new-gpu-back-end%28gpuarray%29
+
+Using gpu device 0: GeForce GTX 1060 6GB (CNMeM is disabled, cuDNN 5110)
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 7.9192 - val_loss: 0.2447
+* Accuracy on test set: 52.15%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.2115 - val_loss: 0.2116
+* Accuracy on test set: 55.83%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1928 - val_loss: 0.1999
+* Accuracy on test set: 58.45%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1833 - val_loss: 0.1935
+* Accuracy on test set: 59.64%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1759 - val_loss: 0.1859
+* Accuracy on test set: 61.67%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1694 - val_loss: 0.1805
+* Accuracy on test set: 63.24%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1637 - val_loss: 0.1765
+* Accuracy on test set: 64.99%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1581 - val_loss: 0.1748
+* Accuracy on test set: 66.56%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1546 - val_loss: 0.1726
+* Accuracy on test set: 66.24%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1512 - val_loss: 0.1718
+* Accuracy on test set: 65.81%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1482 - val_loss: 0.1716
+* Accuracy on test set: 66.77%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1459 - val_loss: 0.1700
+* Accuracy on test set: 67.61%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1437 - val_loss: 0.1702
+* Accuracy on test set: 66.92%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1418 - val_loss: 0.1690
+* Accuracy on test set: 67.34%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1398 - val_loss: 0.1689
+* Accuracy on test set: 67.54%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1384 - val_loss: 0.1690
+* Accuracy on test set: 67.35%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1369 - val_loss: 0.1683
+* Accuracy on test set: 67.52%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1358 - val_loss: 0.1687
+* Accuracy on test set: 68.00%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 16s - loss: 0.1348 - val_loss: 0.1698
+* Accuracy on test set: 66.96%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 16s - loss: 0.1333 - val_loss: 0.1691
+* Accuracy on test set: 68.38%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 16s - loss: 0.1326 - val_loss: 0.1678
+* Accuracy on test set: 67.26%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1316 - val_loss: 0.1683
+* Accuracy on test set: 67.99%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1308 - val_loss: 0.1685
+* Accuracy on test set: 68.71%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1299 - val_loss: 0.1682
+* Accuracy on test set: 68.31%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1292 - val_loss: 0.1681
+* Accuracy on test set: 68.59%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1282 - val_loss: 0.1678
+* Accuracy on test set: 68.75%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1278 - val_loss: 0.1680
+* Accuracy on test set: 68.44%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1272 - val_loss: 0.1682
+* Accuracy on test set: 67.98%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1264 - val_loss: 0.1683
+* Accuracy on test set: 68.82%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1259 - val_loss: 0.1679
+* Accuracy on test set: 67.01%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1255 - val_loss: 0.1680
+* Accuracy on test set: 68.63%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1248 - val_loss: 0.1692
+* Accuracy on test set: 68.75%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1245 - val_loss: 0.1693
+* Accuracy on test set: 69.68%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1239 - val_loss: 0.1678
+* Accuracy on test set: 68.12%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1233 - val_loss: 0.1682
+* Accuracy on test set: 67.16%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1233 - val_loss: 0.1694
+* Accuracy on test set: 69.75%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1223 - val_loss: 0.1687
+* Accuracy on test set: 68.94%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1222 - val_loss: 0.1682
+* Accuracy on test set: 68.15%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1214 - val_loss: 0.1685
+* Accuracy on test set: 68.75%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1214 - val_loss: 0.1680
+* Accuracy on test set: 68.62%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1209 - val_loss: 0.1688
+* Accuracy on test set: 68.16%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1206 - val_loss: 0.1689
+* Accuracy on test set: 68.70%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1203 - val_loss: 0.1682
+* Accuracy on test set: 68.77%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1201 - val_loss: 0.1670
+* Accuracy on test set: 68.87%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1196 - val_loss: 0.1694
+* Accuracy on test set: 67.01%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1197 - val_loss: 0.1699
+* Accuracy on test set: 69.73%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1191 - val_loss: 0.1686
+* Accuracy on test set: 68.99%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1190 - val_loss: 0.1699
+* Accuracy on test set: 69.61%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 14s - loss: 0.1185 - val_loss: 0.1688
+* Accuracy on test set: 69.67%
+Train on 355775 samples, validate on 48515 samples
+Epoch 1/1
+355775/355775 [==============================] - 15s - loss: 0.1184 - val_loss: 0.1685
+* Accuracy on test set: 68.29%
+
